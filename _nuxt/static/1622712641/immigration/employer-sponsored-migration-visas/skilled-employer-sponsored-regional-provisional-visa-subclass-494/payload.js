@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/immigration/employer-sponsored-migration-visas/skilled-employer-sponsored-regional-provisional-visa-subclass-494", {data:[{}],fetch:{},mutations:void 0});

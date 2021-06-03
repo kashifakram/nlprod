@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/immigration/temporary-work-visas/temporary-skill-shortage-visa-subclass-482", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/immigration/family-and-partner-visas/partner-visas/partner-visa-subclass-820-801", {data:[{}],fetch:{},mutations:void 0});

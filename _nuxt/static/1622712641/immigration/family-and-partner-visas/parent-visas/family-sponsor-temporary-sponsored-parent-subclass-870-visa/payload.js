@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/immigration/family-and-partner-visas/parent-visas/family-sponsor-temporary-sponsored-parent-subclass-870-visa", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/immigration/temporary-work-visas/training-visa-subclass-407", {data:[{}],fetch:{},mutations:void 0});

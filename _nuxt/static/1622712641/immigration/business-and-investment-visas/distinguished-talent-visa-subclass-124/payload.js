@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/immigration/business-and-investment-visas/distinguished-talent-visa-subclass-124", {data:[{}],fetch:{},mutations:void 0});

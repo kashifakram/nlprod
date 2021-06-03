@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/legal/wills-and-estate", {data:[{}],fetch:{},mutations:void 0});

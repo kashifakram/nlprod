@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/legal/business-and-property-conveyancing", {data:[{}],fetch:{},mutations:void 0});

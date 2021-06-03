@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/legal/family-law", {data:[{}],fetch:{},mutations:void 0});

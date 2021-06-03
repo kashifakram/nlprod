@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/immigration/family-and-partner-visas/partner-visas/partner-provisional-and-migrant-visa-subclass-309-100", {data:[{}],fetch:{},mutations:void 0});

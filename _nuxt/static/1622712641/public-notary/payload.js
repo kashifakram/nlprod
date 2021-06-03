@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/public-notary", {data:[{}],fetch:{},mutations:void 0});

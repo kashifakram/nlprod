@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/immigration/skilled-migration-visas/skilled-work-regional-provisional-visa-subclass-491", {data:[{}],fetch:{},mutations:void 0});

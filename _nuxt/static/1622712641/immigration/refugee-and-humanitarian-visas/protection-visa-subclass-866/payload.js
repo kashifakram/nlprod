@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/immigration/refugee-and-humanitarian-visas/protection-visa-subclass-866", {data:[{}],fetch:{},mutations:void 0});
