@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1652682635",layout:"default",error:a,serverRendered:true,routePath:"\u002Fimmigration\u002Ffamily-and-partner-visas\u002Fpartner-visas\u002Fpartner-visa-subclass-820-801",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}}}}(null));
