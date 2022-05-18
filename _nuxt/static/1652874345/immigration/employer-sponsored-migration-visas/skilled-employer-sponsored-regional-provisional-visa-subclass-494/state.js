@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1652874345",layout:"default",error:a,serverRendered:true,routePath:"\u002Fimmigration\u002Femployer-sponsored-migration-visas\u002Fskilled-employer-sponsored-regional-provisional-visa-subclass-494",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}}}}(null));
