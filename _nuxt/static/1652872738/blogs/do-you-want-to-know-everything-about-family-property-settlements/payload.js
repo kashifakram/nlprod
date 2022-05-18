@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blogs/do-you-want-to-know-everything-about-family-property-settlements", {data:[{}],fetch:{},mutations:void 0});

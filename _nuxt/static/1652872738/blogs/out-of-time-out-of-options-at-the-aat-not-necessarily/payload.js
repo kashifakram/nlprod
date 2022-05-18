@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blogs/out-of-time-out-of-options-at-the-aat-not-necessarily", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blogs/skilled-newsletter-migration-alliance", {data:[{}],fetch:{},mutations:void 0});

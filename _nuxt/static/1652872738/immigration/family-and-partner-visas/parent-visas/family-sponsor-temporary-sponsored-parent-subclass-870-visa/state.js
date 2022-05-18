@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1652872738",layout:"default",error:a,serverRendered:true,routePath:"\u002Fimmigration\u002Ffamily-and-partner-visas\u002Fparent-visas\u002Ffamily-sponsor-temporary-sponsored-parent-subclass-870-visa",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}}}}(null));

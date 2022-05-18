@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blogs/evidencing-genuine-need-for-an-employee-when-sponsoring-for-permanent-residence", {data:[{}],fetch:{},mutations:void 0});

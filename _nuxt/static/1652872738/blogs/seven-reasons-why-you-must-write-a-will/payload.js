@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blogs/seven-reasons-why-you-must-write-a-will", {data:[{}],fetch:{},mutations:void 0});

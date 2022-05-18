@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blogs/new-sponsorship-options-under-minister-of-religion-labour-agreements-an-visas-for-gps", {data:[{}],fetch:{},mutations:void 0});

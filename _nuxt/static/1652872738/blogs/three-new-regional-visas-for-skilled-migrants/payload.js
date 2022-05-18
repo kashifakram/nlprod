@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blogs/three-new-regional-visas-for-skilled-migrants", {data:[{}],fetch:{},mutations:void 0});
